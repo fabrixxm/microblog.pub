@@ -241,9 +241,9 @@ header#header {
 .og-link:hover { text-decoration: none; }
 .bar-item-no-hover {
   cursor: default;
-  color: $color-menu-background;
+  color: $color;
   padding: 5px;
-  background: $color-light;
+  background: $background-light;
   margin-right:10px;
   border-radius:2px;
   float: left;
